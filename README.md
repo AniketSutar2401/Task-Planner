@@ -1,6 +1,5 @@
 # Task-Planner
-![alt text](https://github.com/[AniketSutar2401]/[Task-Planner]/blob/[main]/Screenshot (2).png?raw=true)
-![Screenshot](screenshot (2).png)
+![alt text](https://github.com/[AniketSutar2401]/[Task-Planner]/Screenshot (2).png?raw=true)
 
 ### The Task Planner aims to provide a solution for users to effectively organize and manage their tasks. 
 ### Users often struggle to keep track of their tasks and prioritize them. 
